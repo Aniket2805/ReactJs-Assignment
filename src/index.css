@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: inter;
+}
+.login,
+.arrow {
+  background: linear-gradient(180deg, #06286e 0%, #164ec0 100%);
+}
+h2,
+.flash {
+  font-weight: 700;
+  background: -webkit-linear-gradient(#06286e, #164ec0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.active {
+  color: #06286e;
+  border-bottom: 3px solid #06286e;
+}
+.ques {
+  background: linear-gradient(
+    222.94deg,
+    #051a91 -4.31%,
+    #061c93 14.41%,
+    #2284f1 81.88%,
+    #1f80eb 103.81%
+  );
+}
+.faq-row-wrapper {
+  .faq-title {
+  }
+  .faq-body {
+    .faq-row {
+      margin-top: 10px;
+      border: 0;
+      .row-title {
+        font-weight: 500;
+      }
+
+      .row-content {
+        .row-content-text {
+        }
+      }
+    }
+  }
+}
+.logo2 {
+  box-shadow: 0px 0px 31px 0px #08389966;
+}
