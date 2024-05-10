@@ -41,4 +41,3 @@ The application is deployed on Netlify and is publicly accessible. You can acces
 ## Contact
 
 For any questions or feedback, feel free to reach out to [Aniket Kumar](mailto:aniketkumar2025it@gmail.com).
-```
